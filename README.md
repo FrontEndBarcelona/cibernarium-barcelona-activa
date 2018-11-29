@@ -3,18 +3,22 @@
   <br>
     <br>Proyecto Web App Programación Cibernarium <br/>
 </h1>
-**Cliente:** [Cibernarium](https://cibernarium.barcelonactiva.cat) / <br/>[IT Academy](https://cibernarium.barcelonactiva.cat/es/it-academy) <br/>
+
+**Cliente:** [Cibernarium](https://cibernarium.barcelonactiva.cat) / [IT Academy](https://cibernarium.barcelonactiva.cat/es/it-academy) <br/>
 **Fecha de inicio:** 29/11/2018 <br/>
-<br/>
-<br/>
-**Tabla de contenido** <br/>
+
+<br>
+<br>
+
+## Tabla de contenido <br/>
+
 [**Descripción**](#descripción) <br/>
-[**Proceso de trabajo**](#proceso-de-trabajo) <br/>
-* [**1. Espacios físicos de formación del Cibernarium**](#) <br/>
-* [**2. Actividades de formación**](#) <br/>
-* [**3. Proveeedores**](#) <br/>
-* [**4. Estado de la situación**](#) <br/>
-* [**5. ¿Qué se nos pide?**](#) <br/>
+[**Proceso de trabajo**](#proceso-de-trabajo)
+  * [**1. Espacios físicos de formación del Cibernarium**](#) <br/>
+  * [**2. Actividades de formación**](#) <br/>
+  * [**3. Proveeedores**](#) <br/>
+  * [**4. Estado de la situación**](#) <br/>
+  * [**5. ¿Qué se nos pide?**](#) <br/>
 
 <br>
 

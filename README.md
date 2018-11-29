@@ -8,21 +8,21 @@
 **Fecha de inicio:** 29/11/2018 <br/>
 
 <br>
-<br>
 
 ## Tabla de contenido <br/>
 
 [**Descripción**](#descripción) <br/>
 [**Proceso de trabajo**](#proceso-de-trabajo)
-  * [**1. Espacios físicos de formación del Cibernarium**](#) <br/>
-  * [**2. Actividades de formación**](#) <br/>
-  * [**3. Proveeedores**](#) <br/>
-  * [**4. Estado de la situación**](#) <br/>
-  * [**5. ¿Qué se nos pide?**](#) <br/>
+  * [**1. Espacios físicos de formación del Cibernarium**](#1-espacios-físicos-de-formación-del-cibernarium) <br/>
+  * [**2. Actividades de formación**](#2-actividades-de-formación) <br/>
+  * [**3. Proveeedores**](#3-proveeedores) <br/>
+  * [**4. Estado de la situación**](#4-estado-de-la-situación) <br/>
+  * [**5. ¿Qué se nos pide?**](#5-qué-se-nos-pide) <br/>
 
 <br>
+<br>
 
-## **Descripción** <br/>
+## **Descripción**<br/>
 
 El [Cibernàrium](https://cibernarium.barcelonactiva.cat) es el programa de capacitación y divulgación tecnológica de [Barcelona Activa](https://www.barcelonactiva.cat) - [Ajuntament de Barcelona](https://ajuntament.barcelona.cat). Ofrece formación para profesionales y empresas, así como actividades de iniciación a Internet para toda la ciudadanía.
 
@@ -30,7 +30,7 @@ Esther Farre e Iván, encargados de la organización de las capsulas de formaci�
 
 <br>
 
-## **Proceso de trabajo** <br/>
+## **Proceso de trabajo**<br/>
 
 Las características que tiene el proceso que lleva Esther son las siguientes:
 
@@ -43,7 +43,7 @@ Las características que tiene el proceso que lleva Esther son las siguientes:
 
 <br>
 
-### **2. Actividades de formación** <br/>
+### **2. Actividades de formación**<br/>
 
   El Cibernarium ofrece 160 actividades diferentes, en una programación trimestral. Las características de los cursos o actividades son las siguientes:
 * Cada actividad tiene un número ID fijo, que le identifica en el sistema.
@@ -58,14 +58,14 @@ Las características que tiene el proceso que lleva Esther son las siguientes:
 
 <br>
 
-### **3. Proveeedores** <br/>
+### **3. Proveeedores**<br/>
   El Cibernarium cuenta con dos tipos de proveedores para ejecutar las actividades de formación programadas. 
 * Los proveedores fijos, son aquellos que cuentan con una disponibilidad completa, dentro de su horario laboral y por lo general no cambian. 
 * Por otro lado, existen proveedores licitantes, que son aquellos que exponen cuál es su disponibilidad horaria, antes de iniciar cada trimestre. Estos pueden cambiar cada trimestre, en razón de ganar la licitación o no.  
 
 <br>
 
-### **4. Estado de la situación** <br/>
+### **4. Estado de la situación**<br/>
 
 En la actualidad Esther e  Iván llevan la programación de estos recursos en un documento Excel, donde organizan la distribución de las aulas, los códigos de cada cursos, las personas inscritas, las personas que han cancelado, la programación de los proveedores, las horas que estos han trabajado y el calculo de cuánto se les ha de pagar al final de cada mes, con respecto a las horas trabajadas. 
 

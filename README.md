@@ -34,7 +34,7 @@ Esther Farre e Iván, encargados de la organización de las capsulas de formaci�
 
 Las características que tiene el proceso que lleva Esther son las siguientes:
 
-### **1. Espacios físicos de formación del Cibernarium** <br/>
+### **1. Espacios físicos de formación del Cibernarium**<br/>
   El espacio determinado para el desarrollo de los cursos cuenta  con siete (7) aulas en total con las    siguientes características:
 * 5 aulas cuentan con permisos totalmente restringidos para instalar o modificar cualquier tipo de software. 
 * 2 aulas de  estas 5, a pesar de contar con permisos restringidos, cuentan con máquinas virtuales específicas.
@@ -81,7 +81,7 @@ Cuando un instructor no puede trabajar en las horas programadas, inicialmente se
 
 <br>
 
-### **5. ¿Qué se nos pide?** <br/>
+### **5. ¿Qué se nos pide?**<br/>
 
 Por medio de una web app, gestionar todo lo anteriormente descrito, teniendo en cuenta estos requerimientos: 
 
